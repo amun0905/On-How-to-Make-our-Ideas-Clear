@@ -2,4 +2,4 @@ This repository contains Amun Govil Lie's undergraduate essay for the module Top
 
 It examines Charles Sanders Peirce's seminal text "How to Make Our Ideas Clear" and the philosophical tradition of pragmatism. 
 
-Feedback received: This is a clearly-written essay which shows a good understanding of Peirce's position in "How to Make Our Ideas Clear". However, it could be improved by greater engagement with secondary literature and more critical evaluation of Pierce's position. 
+Feedback received: This is a clearly-written essay which shows a good understanding of Peirce's position in "How to Make Our Ideas Clear". It could be improved by greater engagement with secondary literature and more critical evaluation of Pierce's position. 
